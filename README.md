@@ -1,6 +1,6 @@
 # Computer Security
 
-A bash program that performs the following functions:
+A program that performs the following functions:
 
 * Shift cipher encryption
 * Shift cipher decryption
@@ -26,7 +26,7 @@ Clone the project on Kali Linux environment and run:
 
 ## Built With
 
-* [Bash](https://www.gnu.org/doc/doc.html) - The programming language used
+* [Bash](https://www.gnu.org/software/bash/) - The programming language used
 
 ## Screenshots
 
